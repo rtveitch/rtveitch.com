@@ -33,7 +33,8 @@ module.exports = {
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: ''
+      codepen: '',
+      youtube: ''
     }
   }
 };
