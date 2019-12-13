@@ -21,12 +21,12 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Programmer and Language Learner in Chicago.',
     contacts: {
-      email: '',
+      email: 'rtveitch@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'rtveitch',
       github: 'rtveitch',
-      rss: '',
+      rss: 'https://rtveitch.com/rss.xml',
       vkontakte: '',
       linkedin: '',
       instagram: 'rtveitch',
@@ -34,7 +34,7 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: ''
+      youtube: 'UCW8MSE_sBSikmoF8xYvp6aw'
     }
   }
 };
