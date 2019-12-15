@@ -14,6 +14,10 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
+    },
+    {
+      label: 'Cantonese',
+      path: '/pages/cantonese'
     }
   ],
   author: {
