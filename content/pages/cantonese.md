@@ -21,5 +21,5 @@ Language learning consists of four primary skills - listening, reading, speaking
 | Cantonese Conversations                 | 🔜     | off-stream                                                                         |
 | CantoLounge                             |        |                                                                                    |
 | Cantonese Academy                       |        |                                                                                    |
-| Glossika                                |        |                                                                                    |
+| Glossika                                | 37/312 |                                                                                    |
 | How To Study Cantonese                  |        |                                                                                    |
