@@ -38,7 +38,8 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: 'UCW8MSE_sBSikmoF8xYvp6aw'
+      youtube: 'UCW8MSE_sBSikmoF8xYvp6aw',
+      soundcloud: '',
     }
   }
 };
