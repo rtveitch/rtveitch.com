@@ -16,7 +16,7 @@ Language learning consists of four primary skills - listening, reading, speaking
 | Ling's Stories 1                        | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBiNkeEC518KDKtzNfMmuiwF) |
 | Ling's Stories 2                        |        |                                                                                   |
 | My Secret Book                          | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBh-pVdWreHO01vE3Grljjgi) |
-| The Freshman                            | 🔜     |                                                                                   |
+| The Freshman                            | 6/14   | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBj_MX8bYiLqd5Xc9mhcQtXA) |
 | A Busy Day                              |        |                                                                                   |
 | Cantonese Conversations                 | 1/29   | off-stream                                                                        |
 | CantoLounge                             |        |                                                                                   |
