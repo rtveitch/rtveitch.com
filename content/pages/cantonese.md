@@ -14,11 +14,11 @@ Language learning consists of four primary skills - listening, reading, speaking
 | Listening To Cantonese Basic Skills     | ✔      | off-stream                                                                        |
 | A Fung Shui Master - Learning Cantonese |        |                                                                                   |
 | Ling's Stories 1                        | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBiNkeEC518KDKtzNfMmuiwF) |
-| Ling's Stories 2                        |        |                                                                                   |
+| Ling's Stories 2                        | 🔜     |                                                                                   |
 | My Secret Book                          | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBh-pVdWreHO01vE3Grljjgi) |
-| The Freshman                            | 12/14  | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBj_MX8bYiLqd5Xc9mhcQtXA) |
+| The Freshman                            | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBj_MX8bYiLqd5Xc9mhcQtXA) |
 | A Busy Day                              |        |                                                                                   |
-| Cantonese Conversations                 | 3/29   | off-stream                                                                        |
+| Cantonese Conversations                 | 5/29   | off-stream                                                                        |
 | CantoLounge                             |        |                                                                                   |
 | Cantonese Academy                       |        |                                                                                   |
 | Glossika                                | 40/312 |                                                                                   |
