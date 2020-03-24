@@ -4,9 +4,13 @@ template: "page"
 socialImage: "/photo.jpg"
 ---
 
-I'm using this page to track my Cantonese language learning progress, both as a way to stay motivated and as a way to allow those of you following my progress to keep track of where I'm at.
+I'm using this page to track my Cantonese language learning progress, both as a
+way to stay motivated and as a way to allow those of you following my progress
+to keep track of where I'm at.
 
-Language learning consists of four primary skills - listening, reading, speaking, and writing. Currently I am focused primarily on listening and reading, and I am tracking my progress against the following materials:
+Language learning consists of four primary skills - listening, reading,
+speaking, and writing. Currently I am focused primarily on listening and
+reading, and I am tracking my progress against the following materials:
 
 | Material                                | Status | Stream                                                                            |
 | --------------------------------------- | ------ | --------------------------------------------------------------------------------- |
