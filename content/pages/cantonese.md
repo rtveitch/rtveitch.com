@@ -18,11 +18,11 @@ reading, and I am tracking my progress against the following materials:
 | Listening To Cantonese Basic Skills     | ✔      | offline                                                                           |
 | A Fung Shui Master - Learning Cantonese |        |                                                                                   |
 | Ling's Stories 1                        | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBiNkeEC518KDKtzNfMmuiwF) |
-| Ling's Stories 2                        | 6/10   | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBjydNmSx3Q12iUxbSbJziMm) |
+| Ling's Stories 2                        | 8/10   | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBjydNmSx3Q12iUxbSbJziMm) |
 | My Secret Book                          | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBh-pVdWreHO01vE3Grljjgi) |
 | The Freshman                            | ✔      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBj_MX8bYiLqd5Xc9mhcQtXA) |
 | A Busy Day                              |        |                                                                                   |
-| Cantonese Conversations                 | 7/29   | offline                                                                           |
+| Cantonese Conversations                 | 8/29   | offline                                                                           |
 | CantoLounge                             |        |                                                                                   |
 | Cantonese Academy                       |        |                                                                                   |
 | Glossika                                | 40/312 |                                                                                   |
