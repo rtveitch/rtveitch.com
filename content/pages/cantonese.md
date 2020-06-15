@@ -15,7 +15,7 @@ reading, and I am tracking my progress against the following materials:
 | Material                                | Status   | Stream                                                                            |
 | --------------------------------------- | -------- | --------------------------------------------------------------------------------- |
 | Teach Yourself Cantonese                | ✔        | offline                                                                           |
-| Remembering Traditional Hanzi (Heisig)  | 255/1500 | offline                                                                           |
+| Remembering Traditional Hanzi (Heisig)  | 360/1500 | offline                                                                           |
 | Listening To Cantonese Basic Skills     | ✔        | offline                                                                           |
 | A Fung Shui Master - Learning Cantonese |          |                                                                                   |
 | Ling's Stories 1                        | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBiNkeEC518KDKtzNfMmuiwF) |
@@ -23,8 +23,8 @@ reading, and I am tracking my progress against the following materials:
 | My Secret Book                          | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBh-pVdWreHO01vE3Grljjgi) |
 | The Freshman                            | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBj_MX8bYiLqd5Xc9mhcQtXA) |
 | A Busy Day                              | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBjU5qm_KwaKi5hyLGZ6sqg9) |
-| Cantonese Conversations                 | 25/29    | offline                                                                           |
-| Storybooks Canada                       | 17/40    | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBgtdZhez9pCT_4FxGPQlff7) |
+| Cantonese Conversations                 | 26/29    | offline                                                                           |
+| Storybooks Canada                       | 19/40    | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBgtdZhez9pCT_4FxGPQlff7) |
 | CantoLounge                             |          |                                                                                   |
 | Cantonese Academy                       |          |                                                                                   |
 | How To Study Cantonese                  |          |                                                                                   |
