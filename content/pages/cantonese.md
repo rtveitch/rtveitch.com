@@ -15,7 +15,8 @@ reading, and I am tracking my progress against the following materials:
 | Material                                | Status   | Stream                                                                            |
 | --------------------------------------- | -------- | --------------------------------------------------------------------------------- |
 | Teach Yourself Cantonese                | ✔        | offline                                                                           |
-| Remembering Traditional Hanzi (Heisig)  | 780/1500 | offline                                                                           |
+| Remembering Traditional Hanzi Volume 1  | 870/1500 | offline                                                                           |
+| Remembering Traditional Hanzi Volume 2  |          |                                                                                   |
 | Listening To Cantonese Basic Skills     | ✔        | offline                                                                           |
 | A Fung Shui Master - Learning Cantonese | 🔜       |                                                                                   |
 | Ling's Stories 1                        | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBiNkeEC518KDKtzNfMmuiwF) |
@@ -25,7 +26,7 @@ reading, and I am tracking my progress against the following materials:
 | A Busy Day                              | ✔        | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBjU5qm_KwaKi5hyLGZ6sqg9) |
 | The Heart Curse                         | 4/9      | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBgcQJvIy0v_xSHkvcqorni2) |
 | Cantonese Conversations                 | ✔        | offline                                                                           |
-| Storybooks Canada                       | 20/40    | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBgtdZhez9pCT_4FxGPQlff7) |
+| Storybooks Canada                       | 22/40    | [Watch](https://www.youtube.com/playlist?list=PLdKI7wP0iFBgtdZhez9pCT_4FxGPQlff7) |
 | CantoLounge                             |          |                                                                                   |
 | Cantonese Academy                       |          |                                                                                   |
 | How To Study Cantonese                  |          |                                                                                   |
