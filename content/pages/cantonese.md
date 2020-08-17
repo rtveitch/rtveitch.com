@@ -15,7 +15,7 @@ reading, and I am tracking my progress against the following materials:
 | Material                                   | Status    | Stream                                                                            |
 | ------------------------------------------ | --------- | --------------------------------------------------------------------------------- |
 | Teach Yourself Cantonese                   | ✔         | offline                                                                           |
-| Remembering Traditional Hanzi Volume 1     | 1170/1500 | offline                                                                           |
+| Remembering Traditional Hanzi Volume 1     | 1275/1500 | offline                                                                           |
 | Remembering Traditional Hanzi Volume 2     |           |                                                                                   |
 | Listening To Cantonese Basic Skills        | ✔         | offline                                                                           |
 | A Fung Shui Master - Learning Cantonese    | 2/9       | offline                                                                           |
